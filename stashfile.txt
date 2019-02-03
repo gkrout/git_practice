@@ -1,0 +1,4 @@
+It is stash text file.
+It is 2nd line..
+It is 3rd line..
+
